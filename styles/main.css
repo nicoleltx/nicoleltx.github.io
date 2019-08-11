@@ -2594,20 +2594,20 @@ textarea.form-control:focus, textarea.form-control:active {
 }
 
 .progress-container.progress-primary .progress {
-  background: rgba(55, 140, 63, 0.4);
+  background: rgb(242, 212, 212);
 }
 
 .progress-container.progress-primary .progress-bar {
-  background: #378C3F;
+  background: #CD5C5C;
 }
 
 .progress-container.progress-primary .progress-value,
 .progress-container.progress-primary .progress-badge {
-  color: #378C3F;
+  color: #CD5C5C;
 }
 
 .progress-container.progress-info .progress {
-  background: rgba(44, 168, 255, 0.3);
+  background: rgb(205, 92, 92);
 }
 
 .progress-container.progress-info .progress-bar {
@@ -3398,7 +3398,7 @@ body {
 }
 
 .bg-primary {
-  background-color: #378C3F !important;
+  background-color: #CD5C5C !important;
 }
 
 .bg-info {
@@ -7045,8 +7045,8 @@ Created using IcoMoon - icomoon.io
   /* For Safari 5.1 to 6.0 */
   /* For Opera 11.1 to 12.0 */
   /* For Firefox 3.6 to 15 */
-  background: -webkit-gradient(linear, left bottom, left top, from(rgba(44, 44, 44, 0.2)), to(rgba(55, 140, 63, 0.6)));
-  background: linear-gradient(0deg, rgba(44, 44, 44, 0.2), rgba(55, 140, 63, 0.6));
+  background: -webkit-gradient(linear, left bottom, left top, from(rgba(44, 44, 44, 0.2)), to(rgb(205, 92, 92)));
+  background: linear-gradient(0deg, rgba(44, 44, 44, 0.2), rgb(205, 92, 92));
   /* Standard syntax */
 }
 
@@ -7092,7 +7092,7 @@ Created using IcoMoon - icomoon.io
 
 .cc-profile-image a:before {
   content: "";
-  border: 15px solid rgba(55, 140, 63, 0.6);
+  border: 15px solid rgb(205, 92, 92);
   border-radius: 50%;
   height: 180px;
   width: 180px;
@@ -7202,7 +7202,7 @@ Created using IcoMoon - icomoon.io
 }
 
 .cc-reference .carousel-indicators .active {
-  background-color: #378C3F;
+  background-color: #CD5C5C;
 }
 
 .cc-reference .carousel-inner {
